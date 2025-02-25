@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzym12" alt="dazzym12" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel,.Net**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **darrelmendoza2354@gmail.com | darrel.mendoza@yahoo.com**
 
