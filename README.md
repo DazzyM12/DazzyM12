@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darrel Mendoza</h1>
-<h3 align="center">A passionate Full Stack Developer from the Philippines.</h3>
+<h3 align="center">I build the front end, I build the back end, and somehow, I still get blamed when the WiFi goes down.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzym12&label=Profile%20views&color=0e75b6&style=flat" alt="dazzym12" /> </p>
 
